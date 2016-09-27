@@ -9,7 +9,7 @@ public class StudentAndCourseTest extends TestCase {
 
 	String s1 = "either your getName() method is not doing its job or you're not " +
 			"setting your instance variables properly";
-	String s2 = "either your getGPA() method is not doing its job or you're not " +
+	String s2 = "either your getGPA() method is not doing its job or you are not " +
 			"setting your instance variables properly";
 	String s4 = "either your getCredits() method is not doing its job or you're not " +
 			"setting your instance variables properly";
