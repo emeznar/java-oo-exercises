@@ -105,6 +105,7 @@ public class Fraction extends Number implements Comparable<Fraction> {
         myFracs.add(f3);
         Collections.sort(myFracs);
 
+        
         for(Fraction f : myFracs) {
             System.out.println(f);
         }

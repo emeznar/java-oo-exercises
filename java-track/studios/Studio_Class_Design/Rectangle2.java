@@ -1,7 +1,7 @@
 package Studio_Class_Design;
 
 public class Rectangle2 {
-	//Fields: //length - int	//width - int   //area - int 	//perimeter - int
+	//Fields: //length - int, width - int, area - int, perimeter - int
 	private int length;
 	private int width;
 	private int area;

@@ -2,7 +2,7 @@ package Studio_Class_Design;
 
 public class BaseballPlayer {
 
-	//Fields:playername - String, jerseynumber - int, bats(R,L, or both) - String	
+	//Fields:playername - String, jerseynumber - int, bats(R,L, or both)-String	
 	private String playername;
 	private int jerseynumber;
 	private String bats;
